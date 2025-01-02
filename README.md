@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![3D Contribution Graph](contrib-3d.svg)
+![3D Contribution Graph](profile-3d-contrib/profile-night-green.svg)
 
