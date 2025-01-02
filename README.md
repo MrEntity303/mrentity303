@@ -68,7 +68,7 @@ I love working with a variety of technologies. Here’s a list of the main ones 
 Feel free to reach out if you want to collaborate on exciting projects, share knowledge, or just chat about tech!
 
 - **Email**: [bialowas.patryk@libero.it](mailto:bialowas.patryk@libero.it)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [linkedin.com/in/patryk-bialowas](https://www.linkedin.com/in/patryk-sebastian-bialowas-95a48a309/)
 - **GitHub**: [github.com/mrentity303](https://github.com/mrentity303)
 
 ---
